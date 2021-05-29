@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "60859ab32852efe93d2fc22c"
+  },
+  "session_key": "r63uc47vgnujm4ww1j3pwtorjowsi9dp",
+  "session_data": "ZGQwZjUyYjU2ZjU1MmNkZDgxNmFkNjUzMTIyZjhjMGI3M2JiYmU2Njp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1YmI3Njg1MDM3ZDI1NDEyYzc5NWYyYzRlZTZkMzI3ZWE5Y2M4NmE5In0=",
+  "expire_date": {
+    "$date": "2021-05-09T16:37:07.948Z"
+  }
+},{
+  "_id": {
+    "$oid": "608a59c921ed88cf411447f7"
+  },
+  "session_key": "xk86s3alhoggu09w83ejre5kubkpyrm3",
+  "session_data": "ZGVmY2FkOGUzNzkxNjM1MGU4ODVmYjc2M2ZlOWZhMDM4NDNkZDZmMjp7Il9hdXRoX3VzZXJfaWQiOiIxMiIsIl9hdXRoX3VzZXJfYmFja2VuZCI6ImRqYW5nby5jb250cmliLmF1dGguYmFja2VuZHMuTW9kZWxCYWNrZW5kIiwiX2F1dGhfdXNlcl9oYXNoIjoiOTE0Yjc3NzRmNWUwNjVhNDQyMzhkNGU5ZGQ3M2YzOWM0N2Q4ZDQyMSJ9",
+  "expire_date": {
+    "$date": "2021-05-13T07:01:29.340Z"
+  }
+},{
+  "_id": {
+    "$oid": "60ae63a6a59f94c3ce603de5"
+  },
+  "session_key": "1kpllmjmiugk1coiq0syqzlv9uz2rdnp",
+  "session_data": "ZGQwZjUyYjU2ZjU1MmNkZDgxNmFkNjUzMTIyZjhjMGI3M2JiYmU2Njp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1YmI3Njg1MDM3ZDI1NDEyYzc5NWYyYzRlZTZkMzI3ZWE5Y2M4NmE5In0=",
+  "expire_date": {
+    "$date": "2021-06-09T15:05:10.419Z"
+  }
+}]

@@ -1,0 +1,166 @@
+[{
+  "_id": {
+    "$oid": "60705e06be41968ff9043e8d"
+  },
+  "name": "django_migrations",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 21
+  },
+  "fields": {
+    "app": {
+      "type_code": "string"
+    },
+    "applied": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043e92"
+  },
+  "name": "django_content_type",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 8
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043e9c"
+  },
+  "name": "auth_permission",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 32
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043ea2"
+  },
+  "name": "auth_group",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043ea7"
+  },
+  "name": "auth_group_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043ead"
+  },
+  "name": "auth_user",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 12
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043eb2"
+  },
+  "name": "auth_user_groups",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043eb7"
+  },
+  "name": "auth_user_user_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043eca"
+  },
+  "name": "django_admin_log",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "60705e07be41968ff9043efd"
+  },
+  "name": "django_session",
+  "fields": {}
+}]

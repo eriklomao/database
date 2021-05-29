@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8110"
+  },
+  "id": 1,
+  "app_label": "admin",
+  "model": "logentry"
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8115"
+  },
+  "id": 2,
+  "app_label": "auth",
+  "model": "permission"
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8116"
+  },
+  "id": 3,
+  "app_label": "auth",
+  "model": "group"
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8117"
+  },
+  "id": 4,
+  "app_label": "auth",
+  "model": "user"
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8124"
+  },
+  "id": 5,
+  "app_label": "contenttypes",
+  "model": "contenttype"
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8129"
+  },
+  "id": 6,
+  "app_label": "sessions",
+  "model": "session"
+},{
+  "_id": {
+    "$oid": "6079ca329094dfc684c16a60"
+  },
+  "id": 7,
+  "app_label": "jugadores",
+  "model": "jugador"
+},{
+  "_id": {
+    "$oid": "607b27aea6d7be3a71d8543c"
+  },
+  "id": 8,
+  "app_label": "equipo",
+  "model": "equipo"
+}]

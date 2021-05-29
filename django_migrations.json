@@ -1,0 +1,211 @@
+[{
+  "_id": {
+    "$oid": "60705e07268bb67c339a80ff"
+  },
+  "id": 1,
+  "app": "contenttypes",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.024Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8100"
+  },
+  "id": 2,
+  "app": "auth",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.172Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8101"
+  },
+  "id": 3,
+  "app": "admin",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.294Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8102"
+  },
+  "id": 4,
+  "app": "admin",
+  "name": "0002_logentry_remove_auto_add",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.324Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8103"
+  },
+  "id": 5,
+  "app": "admin",
+  "name": "0003_logentry_add_action_flag_choices",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.334Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8104"
+  },
+  "id": 6,
+  "app": "contenttypes",
+  "name": "0002_remove_content_type_name",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.352Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8105"
+  },
+  "id": 7,
+  "app": "auth",
+  "name": "0002_alter_permission_name_max_length",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.358Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8106"
+  },
+  "id": 8,
+  "app": "auth",
+  "name": "0003_alter_user_email_max_length",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.368Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8107"
+  },
+  "id": 9,
+  "app": "auth",
+  "name": "0004_alter_user_username_opts",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.377Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8108"
+  },
+  "id": 10,
+  "app": "auth",
+  "name": "0005_alter_user_last_login_null",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.386Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a8109"
+  },
+  "id": 11,
+  "app": "auth",
+  "name": "0006_require_contenttypes_0002",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.391Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810a"
+  },
+  "id": 12,
+  "app": "auth",
+  "name": "0007_alter_validators_add_error_messages",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.400Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810b"
+  },
+  "id": 13,
+  "app": "auth",
+  "name": "0008_alter_user_username_max_length",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.411Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810c"
+  },
+  "id": 14,
+  "app": "auth",
+  "name": "0009_alter_user_last_name_max_length",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.421Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810d"
+  },
+  "id": 15,
+  "app": "auth",
+  "name": "0010_alter_group_name_max_length",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.430Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810e"
+  },
+  "id": 16,
+  "app": "auth",
+  "name": "0011_update_proxy_permissions",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.439Z"
+  }
+},{
+  "_id": {
+    "$oid": "60705e07268bb67c339a810f"
+  },
+  "id": 17,
+  "app": "sessions",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-09T14:00:39.470Z"
+  }
+},{
+  "_id": {
+    "$oid": "6079ca329094dfc684c16a5f"
+  },
+  "id": 18,
+  "app": "jugadores",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-16T17:32:34.410Z"
+  }
+},{
+  "_id": {
+    "$oid": "607b27aea6d7be3a71d8543b"
+  },
+  "id": 19,
+  "app": "equipo",
+  "name": "0001_initial",
+  "applied": {
+    "$date": "2021-04-17T18:23:42.612Z"
+  }
+},{
+  "_id": {
+    "$oid": "6081e12c037b460ac4b346bc"
+  },
+  "id": 20,
+  "app": "equipo",
+  "name": "0002_auto_20210422_2248",
+  "applied": {
+    "$date": "2021-04-22T20:48:44.365Z"
+  }
+},{
+  "_id": {
+    "$oid": "6089a68c8e36e955ec637711"
+  },
+  "id": 21,
+  "app": "jugadores",
+  "name": "0002_jugador_foto",
+  "applied": {
+    "$date": "2021-04-28T18:16:44.757Z"
+  }
+}]
